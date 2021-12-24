@@ -1,7 +1,8 @@
 
 yts.mx##.no-javascript-warning
 yts.mx##div.rating-row:nth-of-type(5)
-
+yts.mx##noscript
+yts.mx##.antoic
 
 
 https://yts.mx/assets/images/website/logo-imdb.svg$domain=https://yts.mx
