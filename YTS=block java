@@ -1,10 +1,12 @@
 
 yts.mx##.no-javascript-warning
+yts.mx##div.rating-row:nth-of-type(5)
 
 
-https://yts.mx/assets/images/website/logo-imdb.svg$domain=https://yts.am
+
+https://yts.mx/assets/images/website/logo-imdb.svg$domain=https://yts.mx
 https://yts.mx/assets/images/website/logo-YTS.svg
-https://yts.mx/assets/images/website/logo-YTS.svg$domain=https://yts.am/assets/images/website/logo-YTS.svg
+https://yts.mx/assets/images/website/logo-YTS.svg$domain=https://yts.mx/assets/images/website/logo-YTS.svg
 yts.mx##DIV[class="ac-results hidden-sm hidden-xs"]
 	yts.mx##DIV[class="ac-results hidden-sm hidden-xs"]
 	yts.mx##DIV[class="ac-results hidden-sm hidden-xs"]
