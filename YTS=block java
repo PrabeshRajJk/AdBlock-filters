@@ -3,38 +3,3 @@ yts.mx##.no-javascript-warning
 yts.mx##div.rating-row:nth-of-type(5)
 yts.mx##noscript
 yts.mx##.antoic
-
-
-https://yts.mx/assets/images/website/logo-imdb.svg$domain=https://yts.mx
-https://yts.mx/assets/images/website/logo-YTS.svg
-https://yts.mx/assets/images/website/logo-YTS.svg$domain=https://yts.mx/assets/images/website/logo-YTS.svg
-yts.mx##DIV[class="ac-results hidden-sm hidden-xs"]
-	yts.mx##DIV[class="ac-results hidden-sm hidden-xs"]
-	yts.mx##DIV[class="ac-results hidden-sm hidden-xs"]
-yts.mx##DIV[class="aibox-bordered"]
-	yts.mx##DIV[class="aibox-bordered"]
-yts.mx##DIV[class="hidden-xs hidden-sm"]
-	yts.mx##DIV[class="hidden-xs hidden-sm"]
-yts.mx##DIV[class="hidden-xs"]
-	yts.mx##DIV[class="hidden-xs"]
-yts.mx##DIV[class="modal modal-auth hidden-xs hidden-sm"]
-	yts.mx##DIV[class="modal modal-auth hidden-xs hidden-sm"]
-yts.mx##DIV[class="modal modal-download hidden-xs hidden-sm"]
-	yts.mx##DIV[class="modal modal-download hidden-xs hidden-sm"]
-	yts.mx##DIV[class="modal modal-download hidden-xs hidden-sm"]
-yts.mx##DIV[class="modal modal-parental-guide hidden-xs hidden-sm"]
-	yts.mx##DIV[class="modal modal-parental-guide hidden-xs hidden-sm"]
-yts.mx##DIV[class="rating-row hidden-sm hidden-xs v211"]
-	yts.mx##DIV[class="rating-row hidden-sm hidden-xs v211"]
-yts.mx##DIV[id="movie-related" class="col-md-6 hidden-xs hidden-sm"]
-	yts.mx##DIV[id="movie-related" class="col-md-6 hidden-xs hidden-sm"]
-yts.mx##DIV[id="screenshots" class="row hidden-xs hidden-sm"]
-	yts.mx##DIV[id="screenshots" class="row hidden-xs hidden-sm"]
-yts.mx##link[rel="dns-prefetch" href="https://velocecdn.com/"]
-yts.mx##link[rel="dns-prefetch"]
-yts.mx##P[class="hidden-md hidden-lg"]
-	yts.mx##P[class="hidden-md hidden-lg"]
-yts.mx##P[class="hidden-xs hidden-sm"]
-	yts.mx##P[class="hidden-xs hidden-sm"]
-yts.mx##SPAN[class="hidden-xs icon-star"]
-	yts.mx##SPAN[class="hidden-xs icon-star"]
