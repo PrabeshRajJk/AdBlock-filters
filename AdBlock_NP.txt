@@ -89,6 +89,9 @@ www.setopati.com##IMG[src="https://img.setoparty.com/uploads/bigyapan/1596813930
 www.setopati.com##IMG[src="https://img.setoparty.com/uploads/bigyapan"]
 www.setopati.com##IMG[src="https://img.setoparty.com/uploads/bigyapan/1596813930.gif"]
 
+||swasthyakhabar.com/uploads/bigyaapan/*.gif$image
+swasthyakhabar.com##.full-bigyaapan-box.cat-bigyaapan.split-box.bigyaapan-box.row > .col-md-12.col-sm-12.bigyaapan-item
+
 yts.lt##DIV[class="ac-results hidden-sm hidden-xs"]
 yts.lt##DIV[class="ac-results hidden-sm hidden-xs"]
 yts.lt##DIV[class="aibox-bordered"]
