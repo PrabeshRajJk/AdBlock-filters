@@ -52,6 +52,17 @@ www.onlinekhabar.com##DIV[id="okam-ad-94"][class="okam-each-ad"]
 www.onlinekhabar.com##DIV[id="okam-ad-97"][class="okam-each-ad"]
 www.onlinekhabar.com##DIV[id="okam-ad-97"][class="okam-each-ad"]
 www.onlinekhabar.com##IMG[class="roadImg"]
+||www.onlinekhabar.com/wp-content/uploads/2021/08/AMBE_OB_1230x100.jpg$image
+||www.onlinekhabar.com/wp-content/uploads/2021/11/Combined_700x80px-1.gif$image
+||www.onlinekhabar.com/wp-content/uploads/2021/12/300x200-2.gif$image
+||www.onlinekhabar.com/wp-content/uploads/2021/12/1230_100-Pixel-Bolero-Udemsil-Nepali.jpg$image
+||www.onlinekhabar.com/wp-content/uploads/2021/12/Onlinekhabar_Desktop-BBA.gif$image
+||www.onlinekhabar.com/wp-content/uploads/2021/11/CA813137-BFC4-43FE-A5D9-8AD46050B387.jpeg$image
+||www.onlinekhabar.com/wp-content/uploads/2021/12/Onlinekhabar_Desktop-BBA.gif$image
+||www.onlinekhabar.com/wp-content/uploads/2021/12/1230_100-Pixel-Bolero-Udemsil-Nepali.jpg$image
+||www.onlinekhabar.com/wp-content/uploads/2021/12/Onlinekhabar_Desktop-BBA.gif$image
+
+
 www.setopati.com##DIV["container sticky-footer-bigyaapan mobBig no-desktop-view"]
 www.setopati.com##DIV["container sticky-footer-bigyaapan mobBig no-desktop-view"]
 www.setopati.com##DIV["container sticky-footer-bigyaapan mobBig no-desktop-view"]
@@ -91,19 +102,3 @@ www.setopati.com##IMG[src="https://img.setoparty.com/uploads/bigyapan/1596813930
 
 ||swasthyakhabar.com/uploads/bigyaapan/*.gif$image
 swasthyakhabar.com##.full-bigyaapan-box.cat-bigyaapan.split-box.bigyaapan-box.row > .col-md-12.col-sm-12.bigyaapan-item
-
-yts.lt##DIV[class="ac-results hidden-sm hidden-xs"]
-yts.lt##DIV[class="ac-results hidden-sm hidden-xs"]
-yts.lt##DIV[class="aibox-bordered"]
-yts.lt##DIV[class="hidden-xs hidden-sm"]
-yts.lt##DIV[class="hidden-xs"]
-yts.lt##DIV[class="modal modal-auth hidden-xs hidden-sm"]
-yts.lt##DIV[class="modal modal-download hidden-xs hidden-sm"]
-yts.lt##DIV[class="modal modal-download hidden-xs hidden-sm"]
-yts.lt##DIV[class="modal modal-parental-guide hidden-xs hidden-sm"]
-yts.lt##DIV[class="rating-row hidden-sm hidden-xs v211"]
-yts.lt##DIV[id="movie-related" class="col-md-6 hidden-xs hidden-sm"]
-yts.lt##DIV[id="screenshots" class="row hidden-xs hidden-sm"]
-yts.lt##P[class="hidden-md hidden-lg"]
-yts.lt##P[class="hidden-xs hidden-sm"]
-yts.lt##SPAN[class="hidden-xs icon-star"]
