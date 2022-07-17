@@ -1,91 +1,24 @@
-
-ekantipur.com##A[class="static-ad"]
-ekantipur.com##A[class="static-sponsor"]
-ekantipur.com##DIV[class="ekans-row"]
-ekantipur.com##DIV[class="image video-sponsor"]
-ekantipur.com##DIV[id="roadblock-ad"]
-www.lokpath.com##SECTION[class="widget"]
-www.lokpath.com##SECTION[class="widget"]
-www.onlinekhabar.com##DIV[class="add__fullwidth"]
-www.onlinekhabar.com##DIV[class="left_add"]
-www.onlinekhabar.com##DIV[class="okam-ad-position-wrap single-inbetween-stories okam-device-mobile-desktop"]
-www.onlinekhabar.com##DIV[class="okam-ad-position-wrap single-sidebar okam-device-desktop"]
-www.onlinekhabar.com##DIV[class="okam-ad-position-wrap single-sidebar2 okam-device-desktop"]
-www.onlinekhabar.com##DIV[class="okam-each-ad"]
-www.onlinekhabar.com##DIV[class="okam-each-ad"]
-www.onlinekhabar.com##DIV[class="top__ads colspan9 flex-box"]
-www.onlinekhabar.com##DIV[id="okam-ad-204"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-204"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-336"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-336"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-366"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-372"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-372"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-396"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-523"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-523"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-585"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-60"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-605"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-63"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-64"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-64"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-659"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-659"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-68"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-680"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-69"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-692"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-692"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-695"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-72"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-738"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-74"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-77"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-85"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-85"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-94"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-94"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-97"][class="okam-each-ad"]
-www.onlinekhabar.com##DIV[id="okam-ad-97"][class="okam-each-ad"]
-www.onlinekhabar.com##IMG[class="roadImg"]
+www.ekantipur.com##A[class="static-ad"]
+www.ekantipur.com##A[class="static-sponsor"]
+www.ekantipur.com##DIV[class="ekans-row"]
+www.ekantipur.com##DIV[class="image video-sponsor"]
+www.ekantipur.com##DIV[id="roadblock-ad"]
 
 
-www.setopati.com##DIV["container sticky-footer-bigyaapan mobBig no-desktop-view"]
-www.setopati.com##DIV["container sticky-footer-bigyaapan mobBig no-desktop-view"]
-www.setopati.com##DIV["container sticky-footer-bigyaapan mobBig no-desktop-view"]
-www.setopati.com##DIV[class="insert-ad"]
-www.setopati.com##DIV[class="insert-ad"]
-www.setopati.com##DIV[class="insert-ad"]
-www.setopati.com##DIV[class="jacket-ad-desktop"]
-www.setopati.com##DIV[class="jacket-ad-desktop"]
-www.setopati.com##DIV[class="jacket-ad-desktop"]
-www.setopati.com##DIV[class="main-bigyaapan col-md-9"]
-www.setopati.com##DIV[class="main-bigyaapan col-md-9"]
-www.setopati.com##DIV[class="main-bigyaapan col-md-9"]
-www.setopati.com##DIV[class="right-side innerpages col-sm-4 col-md-3"]
-www.setopati.com##DIV[class="right-side innerpages col-sm-4 col-md-3"]
-www.setopati.com##DIV[class="right-side innerpages col-sm-4 col-md-3"]
-www.setopati.com##DIV[class="row footer-fixed-bigyaapan"]
-www.setopati.com##DIV[class="row footer-fixed-bigyaapan"]
-www.setopati.com##DIV[class="row footer-fixed-bigyaapan"]
-www.setopati.com##DIV[class="row top-main-ads"]
-www.setopati.com##DIV[class="row top-main-ads"]
-www.setopati.com##DIV[class="row top-main-ads"]
-www.setopati.com##DIV[class="slider-ad col-md-3"]
-www.setopati.com##DIV[class="slider-ad col-md-3"]
-www.setopati.com##DIV[class="slider-ad col-md-3"]
-www.setopati.com##DIV[class="top-bigyaapan desktop-bigyaapan"]
-www.setopati.com##DIV[class="top-bigyaapan desktop-bigyaapan"]
-www.setopati.com##DIV[class="top-bigyaapan desktop-bigyaapan"]
-www.setopati.com##DIV[id="inner-jacket"][class="modalbox"]
-www.setopati.com##DIV[id="inner-jacket"][class="modalbox"]
-www.setopati.com##DIV[id="inner-jacket"][class="modalbox"]
-www.setopati.com##IMG[src="https://img.setoparty.com/uploads/bigyapan"]
-www.setopati.com##IMG[src="https://img.setoparty.com/uploads/bigyapan/1596813930.gif"]
-www.setopati.com##IMG[src="https://img.setoparty.com/uploads/bigyapan"]
-www.setopati.com##IMG[src="https://img.setoparty.com/uploads/bigyapan/1596813930.gif"]
-www.setopati.com##IMG[src="https://img.setoparty.com/uploads/bigyapan"]
-www.setopati.com##IMG[src="https://img.setoparty.com/uploads/bigyapan/1596813930.gif"]
+www.slideshare.net##.limit-overlay
+www.slideshare.net##body:style(overflow:auto!important)
 
-swasthyakhabar.com##.full-bigyaapan-box.cat-bigyaapan.split-box.bigyaapan-box.row > .col-md-12.col-sm-12.bigyaapan-item
+
+www.setopati.com##.full-bigyaapan
+www.setopati.com##div.bigyaapan-item.media
+www.setopati.com##div.desktop-bigyaapan-only
+
+
+www.onlinekhabar.com##.half.okam-ad-position-wrap
+www.onlinekhabar.com##.ok-sidebar-ad
+www.onlinekhabar.com##.okam-each-ad
+www.onlinekhabar.com##.ok_roadblock
+
+www.lokpath.com##.widget
+www.lokpath.com##.fancy.sticky-top > section.widget
+
